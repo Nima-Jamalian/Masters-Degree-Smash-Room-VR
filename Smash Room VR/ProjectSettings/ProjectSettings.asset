@@ -612,10 +612,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 3d5fe3af-9f62-49ae-ade0-7f668419803f
+  cloudProjectId: 34d9d52c-c705-46bc-afd5-e1dea92bb68d
   framebufferDepthMemorylessMode: 0
-  projectName: VR SmashRoomProject Test01
-  organizationId: flimsyhero001
+  projectName: Smash Room VR
+  organizationId: nima--3
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
